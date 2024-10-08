@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "symbols",
+  "editor.fontWeight": "bold",
+  "editor.cursorBlinking": "expand",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on"
+}

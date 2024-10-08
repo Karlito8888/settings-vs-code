@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.fontWeight": "bold",
+    "files.autoSave": "afterDelay",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
